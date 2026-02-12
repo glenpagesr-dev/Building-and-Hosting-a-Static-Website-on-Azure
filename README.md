@@ -9,14 +9,14 @@ This guide walks through the process of configuring an Azure Storage Account to 
 
 ## Step 1: Sign in to the Azure Portal
 
-1. Navigate to the **Azure Portal** at https://portal.azure.com.
+1. Navigate to the **Azure Portal** 
 2. Sign in using your Azure account credentials.
 3. From the Azure home page, locate the search bar at the top.
 
 ---
 
 ## Step 2: Create a Storage Account
-![image alt](https://github.com/your-repo-path/azure-storage-account.png)
+
 
 1. In the search bar, type **Storage accounts** and select it.
 2. Click **Create**.
@@ -33,7 +33,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 3: Enable Static Website Hosting
-![image alt](https://github.com/your-repo-path/enable-static-website.png)
+
 
 1. Once the storage account is deployed, open it.
 2. In the left-hand menu, scroll to **Data management**.
@@ -49,7 +49,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 4: Upload Website Files to the `$web` Container
-![image alt](https://github.com/your-repo-path/web-container-upload.png)
+
 
 1. From the storage account menu, select **Containers**.
 2. Open the **$web** container.
@@ -63,7 +63,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 5: Verify Public Access Settings
-![image alt](https://github.com/your-repo-path/public-access.png)
+
 
 1. In the storage account menu, select **Configuration**.
 2. Ensure **Allow Blob anonymous access** is set to **Enabled**.
@@ -74,7 +74,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 6: Access the Static Website
-![image alt](https://github.com/your-repo-path/static-site-url.png)
+
 
 1. Return to **Static website** under **Data management**.
 2. Copy the **Primary endpoint** URL.
