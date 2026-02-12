@@ -16,7 +16,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 2: Create a Storage Account
-
+![alt text](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure/blob/main/create%20storage%20account.png)
 
 1. In the search bar, type **Storage accounts** and select it.
 2. Click **Create**.
