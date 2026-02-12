@@ -8,7 +8,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 1: Sign in to the Azure Portal
-![alt text](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure/blob/main/create%20resource.png)
+![alt text]
 1. Navigate to the **Azure Portal** 
 2. Sign in using your Azure account credentials.
 3. From the Azure home page, locate the search bar at the top.
@@ -74,7 +74,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 6: Access the Static Website
-![alt text](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure/blob/main/website.png)
+![alt text]
 
 1. Return to **Static website** under **Data management**.
 2. Copy the **Primary endpoint** URL.
