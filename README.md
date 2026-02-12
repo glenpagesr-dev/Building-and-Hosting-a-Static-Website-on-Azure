@@ -49,7 +49,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 4: Upload Website Files to the `$web` Container
-
+![alt text](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure/blob/main/upload%20Blob.png)
 
 1. From the storage account menu, select **Containers**.
 2. Open the **$web** container.
