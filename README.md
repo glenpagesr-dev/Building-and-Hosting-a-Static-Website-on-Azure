@@ -74,7 +74,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 6: Access the Static Website
-
+![alt text](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure/blob/main/website.png)
 
 1. Return to **Static website** under **Data management**.
 2. Copy the **Primary endpoint** URL.
